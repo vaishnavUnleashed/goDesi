@@ -1,2 +1,2 @@
-#go_desi
+# go_desi
 An opensource Splitwise alternative
